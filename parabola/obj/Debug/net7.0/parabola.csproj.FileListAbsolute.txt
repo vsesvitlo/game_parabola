@@ -1,0 +1,15 @@
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/bin/Debug/net7.0/parabola
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/bin/Debug/net7.0/parabola.deps.json
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/bin/Debug/net7.0/parabola.runtimeconfig.json
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/bin/Debug/net7.0/parabola.dll
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/bin/Debug/net7.0/parabola.pdb
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/obj/Debug/net7.0/parabola.csproj.AssemblyReference.cache
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/obj/Debug/net7.0/parabola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/obj/Debug/net7.0/parabola.AssemblyInfoInputs.cache
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/obj/Debug/net7.0/parabola.AssemblyInfo.cs
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/obj/Debug/net7.0/parabola.csproj.CoreCompileInputs.cache
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/obj/Debug/net7.0/parabola.dll
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/obj/Debug/net7.0/refint/parabola.dll
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/obj/Debug/net7.0/parabola.pdb
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/obj/Debug/net7.0/parabola.genruntimeconfig.cache
+/Users/vsesvit/Documents/GitHub/game_parabola/parabola/parabola/obj/Debug/net7.0/ref/parabola.dll
